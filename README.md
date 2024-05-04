@@ -46,7 +46,7 @@ Download MobileNet v2-7 to `src/backend/assets/mobilenetv2-7.onnx`:
 Install NodeJS dependencies for the frontend:
 
 ```
-npm install
+yarn install
 ```
 
 # Build
