@@ -1,6 +1,9 @@
-use std::cell::RefCell;
 use candid::{CandidType, Deserialize};
-use ic_stable_structures::{memory_manager::{MemoryId, MemoryManager}, DefaultMemoryImpl};
+use ic_stable_structures::{
+    memory_manager::{MemoryId, MemoryManager},
+    DefaultMemoryImpl,
+};
+use std::cell::RefCell;
 
 mod onnx;
 

@@ -4,6 +4,9 @@ https://internetcomputer.org/docs/current/developer-docs/ai/ai-on-chain
 
 https://github.com/dfinity/examples/tree/6edfa86177fed55ac2cb641ee2359de6a6bbccf9/rust/image-classification
 
+official canister: https://qmbwn-qaaaa-aaaak-aknvq-cai.icp0.io/
+my canister: https://nlb26-cyaaa-aaaak-akqwq-cai.icp0.io/
+
 This is an ICP smart contract that accepts an image from the user and runs image classification inference.
 The smart contract consists of two canisters:
 
